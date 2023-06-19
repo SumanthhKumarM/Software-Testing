@@ -1,8 +1,8 @@
-package shobana1;
+package factor;
 
 import static org.junit.Assert.assertTrue;
 import java.util.Scanner;
-	class shobana8
+	class fact
 	{
 	public static void main(String[] args)
 	{
